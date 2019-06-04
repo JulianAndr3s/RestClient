@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RestClient</string>
+    <string name="cargar_personas">Cargar Personas</string>
+    <string name="buscar">Buscar</string>
+    <string name="favor_diligenciar_formulario">Favor diligenciar formulario</string>
+    <string name="telefono">Telefono</string>
+    <string name="guardar">Guardar</string>
+    <string name="apellido">Apellido</string>
+    <string name="nombre">Nombre</string>
+    <string name="requerido">Campo requerido</string>
+</resources>
